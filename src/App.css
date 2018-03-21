@@ -1,19 +1,21 @@
 .App {
   text-align: center;
-  background-color: #222;
+  background-color: white;
 }
 
 .App-header {
   background-color: #af00009f;
-  height: 200px;
-  padding: 20px;
+  height: 150px;
   color: white;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
 }
 
 .App-title {
   font-size: 4em;
-  padding: 0px;
 }
+
 .App-subtitle {
   font-size: 1.5em;
 }

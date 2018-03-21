@@ -1,7 +1,12 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import './App.css';
 
 class App extends Component {
+
+  componentDidMount() {
+    document.title = "Jussi Wallin";
+  }
+
   render() {
     return (
       <div className="App">
