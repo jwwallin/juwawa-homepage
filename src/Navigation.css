@@ -1,0 +1,20 @@
+.navbar {
+  height: 80px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-color: rgba(0, 0, 0, 0.1);
+  color: white;
+  margin-bottom: 0px;
+}
+
+.navbar-logo {
+  max-height: 50px;
+  width: auto;
+}
+
+.navbar-links {
+  padding-top: 15px;
+}
+
+.navbar-greeting {
+  padding-top: 15px;
+}
