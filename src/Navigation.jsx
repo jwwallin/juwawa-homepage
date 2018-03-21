@@ -13,14 +13,11 @@ class Navigation extends Component {
         </Navbar.Header>
         <Navbar.Collapse>
           <Nav className="navbar-links">
-            <NavItem eventKey={1} href="#">
-              Link
-            </NavItem>
-            <NavItem eventKey={2} href="#">
-              Link
+            <NavItem eventKey={1} href="http://intro-juwawa.herokuapp.com/intro/index.html">
+              Intro (WIP)
             </NavItem>
           </Nav>
-          <Navbar.Text className="navbar-greeting" pullRight>Have a great day!</Navbar.Text>
+          <Navbar.Text className="navbar-greeting" pullRight>Site is under construction.</Navbar.Text>
         </Navbar.Collapse>
       </Navbar>
     );
