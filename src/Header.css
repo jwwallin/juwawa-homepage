@@ -1,0 +1,16 @@
+.App-header {
+  background-color: #af00009f;
+  height: 150px;
+  color: white;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.App-title {
+  font-size: 4em;
+}
+
+.App-subtitle {
+  font-size: 1.5em;
+}
